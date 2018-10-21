@@ -1,0 +1,39 @@
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+h2.destination {
+  font-family: cursive;
+}
+
+h5 {
+  color: rebeccapurple;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+.publish-time {
+  color: gray;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.description h5 {
+  color: teal;
+}
+<--We add the h5 selector setting the font color to rebeccapurple. Since the h5 tag is broader than the .description class, it does not change any of the h5 tags that have a .description class nested within. -->
