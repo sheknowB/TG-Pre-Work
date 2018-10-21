@@ -1,0 +1,12 @@
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+.title{
+  color: teal;
+}
+<!-- I learn that css style can be used to change attribute styles. Here we add style to the title class. -->
