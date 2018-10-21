@@ -1,0 +1,16 @@
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+.title{
+  color: teal;
+}
+
+.uppercase{
+  text-transform: uppercase;
+}
+<!-- In this lesson we learn that we can create different classes and apply styles to them. Also we can apply as many classes as we wan to the HTML element's class attribute. -->
