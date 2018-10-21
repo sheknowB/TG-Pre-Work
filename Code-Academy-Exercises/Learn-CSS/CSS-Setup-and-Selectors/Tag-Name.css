@@ -1,0 +1,8 @@
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+<!-- The tags used in the html can be styled here in the css file. Here we add styling to the h1 tags-->
