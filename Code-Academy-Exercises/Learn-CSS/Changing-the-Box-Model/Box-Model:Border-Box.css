@@ -1,0 +1,3 @@
+/* In this lesson we learn we can reset the entire box-model and specify a new one: border-box. */
+/* This new box-model avoids the dimensional issues from the last box-model. */
+/* With this box-model the width and heights remain constant, the padding and border thickness is included in the box-model. */
