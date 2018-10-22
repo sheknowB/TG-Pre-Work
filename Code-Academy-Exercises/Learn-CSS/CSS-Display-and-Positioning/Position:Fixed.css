@@ -82,6 +82,7 @@ footer {
   text-align: center;
   width: 100%;
   position: relative;
+  top: 200px;
 }
 
 .question {
@@ -99,5 +100,5 @@ footer {
   background: #C0D6DF;
   color: #FFF;
 }
-/* Here we learn about the fixed value for positioning. This sets an element to permanently be fixed on the webpage.*/
-/* We set the position to fixed in the header element, line 9. */
+/* Here we implement the fixed value for the position property in the header element. */
+/* When we use "fixed", it sets an element to a specific position on the webpage. */
