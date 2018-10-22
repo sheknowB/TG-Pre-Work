@@ -1,0 +1,5 @@
+/* The box model includes the content area, padding area, border and margin of an element */
+/* The properties are width and height that specifies the content area 
+  padding specifies the amount of space between the content area and the border
+  border specifies the style and thickness of the border area surronding the padding and content
+  and margin specifies the amount of space between the border and the outside edge of the element. */
