@@ -97,4 +97,5 @@ footer {
   color: #FFF;
 }
 /* Here we play around with the position property by implementing the relative value. */
+/* Relative positioning allows you to position an element relative to its static position on the webpage. */
 /* Added position: relative to .question, line 86 */
