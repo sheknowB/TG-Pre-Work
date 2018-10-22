@@ -1,0 +1,3 @@
+/* In this lesson we learn that when two elements with vertical margins are adjacent to one another
+   the vertical margin would collapse and be set to the margin with the bigger value. */
+/* Horizontal margins on the other hand do not collapse, and would be set to the sum of their margin values. */
