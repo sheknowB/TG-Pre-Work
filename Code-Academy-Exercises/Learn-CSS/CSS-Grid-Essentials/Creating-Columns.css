@@ -1,0 +1,17 @@
+.grid {
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  display: grid;
+  grid-template-columns: 100px 50% 200px;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+/* In this exercise we learn to define the number of columns. We use the 'grid-template-columns' property and input the amount of columns by defining their widths. */
+/* The number of columns correspond with the amount of widths we input. In the above example we have three. */
+/* The value of the widths can be expressed as pixels or a percentage of the total width. */
