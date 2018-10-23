@@ -1,0 +1,16 @@
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  width: 400px;
+  height: 500px;
+  grid-template: repeat(3, 1fr) / 3fr 50% 1fr;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+/* In this exercise we learn the repeat function. A very useful function that repeats a value that is set. */
+/* The function can also have multiple values such as 'grid-template-column: repeat (2, 10px 20px)' which would layout 4 columns, column 1 and 3 would be 10px wide, column 2 and 4 would be 20px wide. */  
