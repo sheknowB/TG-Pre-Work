@@ -1,0 +1,21 @@
+.grid {
+  display: grid;
+  border: 2px blue solid;
+  height: 500px;
+  width: 500px;
+  grid-template: repeat(4, 1fr 2fr) / repeat(4, 3fr 2fr);
+  grid-gap: 5px;
+}
+
+.a {
+  grid-row-start: 5;
+  grid-row-end: 7;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+/* In this exercise we learn how to expand grids over multiple rows. The value represents the grid line number. So if you would like a grid to span over rows 1 and 2 you would set your grid to start at line 1 and end at line 3. */
