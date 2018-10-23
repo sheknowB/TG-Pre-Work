@@ -1,0 +1,3 @@
+/* No code in this exercise. */
+/* Here we are introduced to something called the implicit grid. It is an algorithm built into the specificaion for CSS Grid that determines default behavior for the placement of elements when there are more than fit in the grid specified by the CSS. */
+/* The default behavior of the implicit grid is as follows:  items fill up rows first, adding new rows as necessary. New grid rows will be only as tall as the content within. */
