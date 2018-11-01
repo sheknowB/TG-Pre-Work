@@ -14,24 +14,24 @@ A browser renders HTML code.
 
 ## What is the server-side code’s main function?
 
-Server-side's main function is to store and deliver data.
+The server-side code handles the HTTP requests, it retrieves records from databases, and because the code is handled on the server-side it maintains a higher level of security.    
 
 ## What is the client-side code’s main function?
 
-Client-side's main function is to retrieve data.
+Client-side code changes the interface behaviors within a specific webpage in response to mouse/keyboard actions or at specified timing events. The client-side content is generated within the client's browser/computer.
 
 ## How many instances of the client-side assets (HTML, CSS, JS, Images, etc.) are created?
 
-put your answer here
+As many as needed. It is my understanding that an instance is an object, so there could be a number of objects that define a class such as properties or behavior of the function.
 
 ## How many instances of the server-side code are available at any given time?
 
-put your answer here
+There are several instances of the server-side code available such as session, application, cache, request, response, server, user and trace.
 
 ## What is runtime?
 
-The code/instructions that are executed while your program is running
+The period during which a computer program is executing its code/instructions.
 
 ## How many instances of the the databases connected to the server application are created?
 
-put your answer here
+A computer can run multiple instances of the databases connected to the server application. An instance of the database operates as a service that handles all application requests to work with the data of the database managed by that instance.
